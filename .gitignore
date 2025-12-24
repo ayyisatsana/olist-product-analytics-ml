@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+venv/
+
+# OS
+.DS_Store
+
+# Data (raw data usually not tracked)
+data/raw/*.csv
